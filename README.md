@@ -1,3 +1,5 @@
+This skyos made by [pdpdds](https://github.com/pdpdds, "orgauthor").
+
 SkyOS32
 ----------------
 
